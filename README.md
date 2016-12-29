@@ -35,9 +35,12 @@ And then execute:
 A markdown view
 
 1. Create a view called app/view/home/markdown.html.md and add the following sammple markdown. 
-    this is a sample markdown code
+
+```markdown
+    ## This is a sample markdown code
     - [google][http://google.com]
     - [emd](https://github.com/ytbryan/emd/)
+```
 
 1. `rails generate controller home`
 
