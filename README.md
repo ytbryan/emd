@@ -9,8 +9,8 @@ Special thanks to [these folks](http://stackoverflow.com/questions/4163560/how-c
 
 ## Benefits
 1. Reuse markdown through out Rails and even Jekyll Projects
-1. Allow copywriters to be involved in building your rails content easily 
-1. Markdown is allow you to focus on the content instead of the structure.  
+1. Allow copywriters & marketers to be involved in building your content easily 
+1. Allows you to focus on the content instead of the webpage structure.  
 
 ## Example repo
 
