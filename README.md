@@ -30,13 +30,25 @@ And then execute:
 
     $ bundle
 
-Or install it yourself as:
-
-    $ gem install emd
-
 ## Usage
 
-create a partial app/view/frontpages/`_component.html.md`
+> A markdown view
+1. Create a view called app/view/home/markdown.html.md and add the following sammple markdown. 
+> ## this is a sample markdown code
+> - [google][http://google.com]
+> - [emd](https://github.com/ytbryan/emd/)
+
+1. `rails generate controller home`
+
+1. At route.rb, add the following line: 
+> get '/markdown', to: 'home#markdown'
+
+1. Visit the app at http://localhost:3000/markdown
+
+
+> A markdown partial
+
+create a partial app/view/home/`_component.html.md`
 
 ```markdown
 ### This is a component
