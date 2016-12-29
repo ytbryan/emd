@@ -2,10 +2,15 @@
 
 Embedded Markdown uses a rails engine and a simple initializer to initiate a template handler for markdown using redcarpet.
 
-The motivation to create emd so that I can use reuse markdown within my own rails projects.
+The motivation to create Embedded Markdown as a gem, so that I can use reuse markdown in several of my Rails & Jekyll projects.
 
 Special thanks to [these folks](http://stackoverflow.com/questions/4163560/how-can-i-automatically-render-partials-using-markdown-in-rails-3/10131299#10131299
 ) for making emd possible
+
+## Benefits
+1. Reuse markdown through out Rails and even Jekyll Projects
+1. Allow copywriters to be involved in building your rails content easily 
+1. Markdown is simply the best syntax for writing content than HTML. 
 
 ## Example repo
 
