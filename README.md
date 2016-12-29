@@ -32,16 +32,17 @@ And then execute:
 
 ## Usage
 
-> A markdown view
+A markdown view
+
 1. Create a view called app/view/home/markdown.html.md and add the following sammple markdown. 
-> ## this is a sample markdown code
-> - [google][http://google.com]
-> - [emd](https://github.com/ytbryan/emd/)
+    this is a sample markdown code
+    - [google][http://google.com]
+    - [emd](https://github.com/ytbryan/emd/)
 
 1. `rails generate controller home`
 
 1. At route.rb, add the following line: 
-> get '/markdown', to: 'home#markdown'
+    get '/markdown', to: 'home#markdown'
 
 1. Visit the app at http://localhost:3000/markdown
 
@@ -51,12 +52,11 @@ And then execute:
 create a partial app/view/home/`_component.html.md`
 
 ```markdown
-### This is a component
+    ### This is a component
 
-- This is item 1
-- This is iiem 2
-- [This is a link to google] (http://google.com)
-
+    - This is item 1
+    - This is iiem 2
+    - [This is a link to google] (http://google.com)
 ```
 
 Then,  use this partial using <%= render "component" %> within any view like index.html.erb
