@@ -1,16 +1,25 @@
 # emd
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/emd`. To experiment with that code, run `bin/console` for an interactive prompt.
+Embedded Markdown is created so that I can use markdown within my own rails projects.
 
-TODO: Delete this and the text above, and describe your gem
+Embedded Markdown uses a rails engine and a simple initializer to initiate a template handler for markdown using redcarpet.
+
+Special thanks to [these folks](http://stackoverflow.com/questions/4163560/how-can-i-automatically-render-partials-using-markdown-in-rails-3/10131299#10131299
+) for making emd possible
+
+## Example repo
+
+TODO
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Add this two lines to your application's Gemfile:
 
 ```ruby
+gem 'redcarpet'
 gem 'emd'
 ```
+> emd depends on redcarpet for markdown rendering
 
 And then execute:
 
@@ -22,7 +31,19 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+create a partial app/view/frontpages/`_component.html.md`
+
+```markdown
+### This is a component
+
+- This is item 1
+- This is iiem 2
+- [This is a link to google] (http://google.com)
+
+```
+
+Then,  use this partial using <%= render "component" %> within any view like index.html.erb
+
 
 ## Development
 
@@ -38,4 +59,3 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
