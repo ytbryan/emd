@@ -1,8 +1,8 @@
-# emd
-
-Embedded Markdown is created so that I can use markdown within my own rails projects.
+# Embedded Markdown
 
 Embedded Markdown uses a rails engine and a simple initializer to initiate a template handler for markdown using redcarpet.
+
+The motivation to create emd so that I can use reuse markdown within my own rails projects.
 
 Special thanks to [these folks](http://stackoverflow.com/questions/4163560/how-can-i-automatically-render-partials-using-markdown-in-rails-3/10131299#10131299
 ) for making emd possible
