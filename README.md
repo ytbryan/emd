@@ -42,11 +42,12 @@ And then execute:
         - [emd](https://github.com/ytbryan/emd/)
     ```
 
-1. `rails generate controller home`
+1. Generate a home controller using the following command `rails generate controller home`
 
 1. At route.rb, add the following line: 
-    get '/markdown', to: 'home#markdown'
-
+    ```
+       get '/markdown', to: 'home#markdown'
+    ```
 1. Visit the app at http://localhost:3000/markdown
 
 
