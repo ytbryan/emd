@@ -1,8 +1,8 @@
 # Embedded Markdown
 
-Embedded Markdown uses a rails engine and a simple initializer to initiate a template handler for markdown using redcarpet.
+Embedded Markdown uses a rails engine and a simple initializer to initiate a markdown template handler with the help of redcarpet.
 
-The motivation to create Embedded Markdown as a gem, so that I can use reuse markdown in several of my Rails & Jekyll projects.
+The motivation is to reuse markdown in several of my Rails & Jekyll projects.
 
 Special thanks to [these folks](http://stackoverflow.com/questions/4163560/how-can-i-automatically-render-partials-using-markdown-in-rails-3/10131299#10131299
 ) for making emd possible
@@ -48,12 +48,12 @@ And then execute:
     ```
        get '/markdown', to: 'home#markdown'
     ```
-1. Visit the app at http://localhost:3000/markdown
+1. Finally, visit the markdown view at [http://localhost:3000/markdown](http://localhost:3000/markdown)
 
 
 ### A markdown partial
 
-1. create a partial app/view/home/`_component.html.md`
+1. Create a partial app/view/home/`_component.html.md`
 
     ```markdown
         ### This is a component
@@ -63,7 +63,7 @@ And then execute:
         - [This is a link to google] (http://google.com)
     ```
 
-1. Then,  use this partial using <%= render "component" %> within any view like index.html.erb
+1. Then,  use this partial using `<%= render "component" %>` within any view like index.html.erb
 
 
 ## Development
