@@ -38,7 +38,7 @@ And then execute:
 
     ```markdown
         ## This is a sample markdown code
-        - [google][http://google.com]
+        - [google](http://google.com)
         - [emd](https://github.com/ytbryan/emd/)
     ```
 
