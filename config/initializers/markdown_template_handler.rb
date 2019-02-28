@@ -3,12 +3,8 @@ module MarkdownTemplateHandler
     @erb ||= ActionView::Template.registered_template_handler(:erb)
   end
 
-  def self.markdown
-    @markdown ||= Redcarpet::Markdown.new(Redcarpet::Render::HTML, options)
-  end
-
-  def self.call(template)
-    options = {
+  def self.redcarpet_options
+    @options = {
       space_after_headers:          true,
       fenced_code_blocks:           true,
       smartypants:                  true,
@@ -19,8 +15,15 @@ module MarkdownTemplateHandler
       no_intra_emphasis:            true,
       autolink:                     true
     }
+  end
+
+  def self.markdown
+    @markdown ||= Redcarpet::Markdown.new(Redcarpet::Render::HTML, redcarpet_options)
+  end
+
+  def self.call(template)
     compiled_source = erb.call(template)
-    "#{markdown}.render(begin;#{compiled_source};end).html_safe"
+    "#{markdown.render(compiled_source).inspect}.html_safe"
   end
 end
 
