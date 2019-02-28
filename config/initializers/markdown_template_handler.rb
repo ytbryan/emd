@@ -4,17 +4,20 @@ module MarkdownTemplateHandler
   end
 
   def self.call(template)
+    options = {
+      space_after_headers:          true,
+      fenced_code_blocks:           true,
+      smartypants:                  true,
+      disable_indented_code_blocks: true,
+      prettify:                     true,
+      tables:                       true,
+      with_toc_data:                true,
+      no_intra_emphasis:            true,
+      autolink:                     true
+    }
+    @markdown ||= Redcarpet::Markdown.new(Redcarpet::Render::HTML, options)
     compiled_source = erb.call(template)
-    "Redcarpet::Markdown.new(Redcarpet::Render::HTML,
-                             no_intra_emphasis: true,
-                             fenced_code_blocks: true,
-                             space_after_headers: true,
-                             smartypants:                  true,
-                             disable_indented_code_blocks: true,
-                             prettify:                     true,
-                             tables:                       true,
-                             with_toc_data:                true,
-                             autolink: true).render(begin;#{compiled_source};end).html_safe"
+    "#{@markdown}.render(begin;#{compiled_source};end).html_safe"
   end
 end
 
