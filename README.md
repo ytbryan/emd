@@ -65,6 +65,27 @@ And then execute:
 
 1. Then,  use this partial using `<%= render "component" %>` within any view like index.html.erb
 
+### Control which extensions redcarpet uses
+
+`emd` assumes some sane redcarpet extension use (see redcarpets options [here](https://github.com/vmg/redcarpet#and-its-like-really-simple-to-use) and [here](https://github.com/vmg/redcarpet#darling-i-packed-you-a-couple-renderers-for-lunch)). If you need to overwrite these in your Rails app, create a file `config/initializers/markdown_template_handler.rb` to overwrite the defaults from [config/initializers/markdown_template_handler.rb](config/initializers/markdown_template_handler.rb) like this:
+
+```
+module MarkdownTemplateHandler
+  def self.call(template)
+    compiled_source = erb.call(template)
+    "Redcarpet::Markdown.new(Redcarpet::Render::HTML,
+                             no_intra_emphasis: true,
+                             fenced_code_blocks: true,
+                             # I actually like that, so commented it out:
+                             # disable_indented_code_blocks: true,
+                             space_after_headers: true,
+                             prettify:                     true,
+                             tables:                       true,
+                             with_toc_data:                true,
+                             autolink: true).render(begin;#{compiled_source};end).html_safe"
+  end
+end
+```
 
 ## Development
 
