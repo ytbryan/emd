@@ -14,6 +14,7 @@ The motivation is to reuse Markdown file in several of my Rails projects.
 Add this two lines to your application's Gemfile:
 
 ```ruby
+gem 'coderay' #optional for Syntax Highlighting
 gem 'redcarpet'
 gem 'emd'
 ```
@@ -63,7 +64,7 @@ And then execute:
 To support syntax highlighting, add `coderay` to Gemfile as shown below: 
 
 ```ruby
-gem "coderay"
+gem 'coderay'
 ```
 Remember to run `bundle install`. 
 
