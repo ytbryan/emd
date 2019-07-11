@@ -1,20 +1,13 @@
-# Embedded Markdown
+# Embedded Markdown [![Gem Version](https://badge.fury.io/rb/emd.svg)](https://badge.fury.io/rb/emd)
 
-Embedded Markdown uses a rails engine and a simple initializer to initiate a markdown template handler with the help of redcarpet.
+Embedded Markdown uses a Rails engine and a simple initializer to initiate a markdown template handler with the help of Redcarpet and syntax highlighting from Coderay.
 
-The motivation is to reuse markdown in several of my Rails & Jekyll projects.
+The motivation is to reuse Markdown file in several of my Rails projects.
 
-Special thanks to [these folks](http://stackoverflow.com/questions/4163560/how-can-i-automatically-render-partials-using-markdown-in-rails-3/10131299#10131299
-) for making emd possible
-
-## Benefits
-1. Reuse markdown through out Rails and even Jekyll Projects
-1. Allow copywriters & marketers to be involved in building your content easily 
-1. Allows you to focus on the content instead of the webpage structure.  
-
-## Example repo
-
-TODO
+- 😊 Reuse Markdown in Rails products
+- 📝 Allow copywriters & marketers to be involved in building your content easily 
+- 📝 Allows you to focus on the content instead of the webpage structure.  
+- 🙌 Supports syntax highlighting via Coderay
 
 ## Installation
 
@@ -24,7 +17,7 @@ Add this two lines to your application's Gemfile:
 gem 'redcarpet'
 gem 'emd'
 ```
-> emd depends on redcarpet for markdown rendering
+> emd depends on Redcarpet for Markdown rendering
 
 And then execute:
 
@@ -32,12 +25,12 @@ And then execute:
 
 ## Usage
 
-### A markdown view
+### A Markdown view
 
-1. Create a view called app/view/home/markdown.html.md and add the following sammple markdown. 
+1. Create a view called app/view/home/markdown.html.md and add the following sample Markdown. 
 
     ```markdown
-        ## This is a sample markdown code
+        ## This is a sample Markdown code
         - [google](http://google.com)
         - [emd](https://github.com/ytbryan/emd/)
     ```
@@ -51,7 +44,7 @@ And then execute:
 1. Finally, visit the markdown view at [http://localhost:3000/markdown](http://localhost:3000/markdown)
 
 
-### A markdown partial
+### A Markdown partial
 
 1. Create a partial app/view/home/`_component.html.md`
 
@@ -65,7 +58,28 @@ And then execute:
 
 1. Then,  use this partial using `<%= render "component" %>` within any view like index.html.erb
 
-### Control which extensions redcarpet uses
+### Syntax Highlighting
+
+To support syntax highlighting, add `coderay` to Gemfile as shown below: 
+
+```ruby
+gem "coderay"
+```
+Remember to run `bundle install`. 
+
+This will turn all the code block into:
+
+```ruby
+    ```ruby
+     puts "something"
+    ```
+```
+
+```ruby
+puts "something"
+```
+
+### Control which extensions Redcarpet uses
 
 `emd` assumes some sane redcarpet extension use (see redcarpets options [here](https://github.com/vmg/redcarpet#and-its-like-really-simple-to-use) and [here](https://github.com/vmg/redcarpet#darling-i-packed-you-a-couple-renderers-for-lunch)). If you need to overwrite these in your Rails app, create a file `config/initializers/markdown_template_handler.rb` to overwrite the defaults from [config/initializers/markdown_template_handler.rb](config/initializers/markdown_template_handler.rb) like this:
 
@@ -101,3 +115,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/ytbrya
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
+
+Special thanks to [these folks](http://stackoverflow.com/questions/4163560/how-can-i-automatically-render-partials-using-markdown-in-rails-3/10131299#10131299
+) for making emd possible
