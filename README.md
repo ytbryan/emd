@@ -122,3 +122,11 @@ The gem is available as open source under the terms of the [MIT License](http://
 
 Special thanks to [these folks](http://stackoverflow.com/questions/4163560/how-can-i-automatically-render-partials-using-markdown-in-rails-3/10131299#10131299
 ) for making emd possible
+
+
+## TODO
+
+- [] Tests
+- [] Scaffolders
+- [x] Syntax highlighting 
+- [] Example repo
