@@ -72,13 +72,15 @@ This will turn all the code block into:
 
 ```ruby
     ```ruby
-     puts "something"
+       class Something
+       end
     ```
 ```
 
 ```ruby
-puts "something"
-```
+    class Something
+    end
+  ```
 
 ### Control which extensions Redcarpet uses
 
