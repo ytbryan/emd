@@ -1,5 +1,0 @@
-#!/usr/bin/env ruby
-
-require 'aka'
-
-Aka::Base.start(ARGV)
