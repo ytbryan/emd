@@ -1,17 +1,10 @@
 # Embedded Markdown [![Gem Version](https://badge.fury.io/rb/emd.svg)](https://badge.fury.io/rb/emd)
 
-Embedded Markdown uses a Rails engine and a simple initializer to initiate a markdown template handler with the help of Redcarpet and syntax highlighting from Coderay.
-
-The motivation is to reuse Markdown file in several of my Rails projects.
-
-- 😊 Reuse Markdown in Rails products
-- 📝 Allow copywriters & marketers to be involved in building your content easily 
-- 📝 Allows you to focus on the content instead of the webpage structure.  
-- 🙌 Supports syntax highlighting via Coderay
+Embedded Markdown supports Markdown in Rails views and syntax highlighting at code block. 
 
 ## Installation
 
-Add this two lines to your application's Gemfile:
+Add these lines to your application's Gemfile:
 
 ```ruby
 gem 'coderay' #optional for Syntax Highlighting
@@ -26,9 +19,9 @@ And then execute:
 
 ## Usage
 
-### A Markdown view
+### Use it in a Markdown view `markdown.html.md`
 
-1. Create a view called app/view/home/markdown.html.md and add the following sample Markdown. 
+1. Create a `markdown.html.md` view at `app/view/home/markdown.html.md` and add the following Markdown code:
 
     ```markdown
         ## This is a sample Markdown code
@@ -38,16 +31,16 @@ And then execute:
 
 1. Generate a home controller using the following command `rails generate controller home`
 
-1. At route.rb, add the following line: 
+1. Add the following line to `route.rb`: 
     ```
        get '/markdown', to: 'home#markdown'
     ```
-1. Finally, visit the markdown view at [http://localhost:3000/markdown](http://localhost:3000/markdown)
+1. And finally, visit the Markdown view at [http://localhost:3000/markdown](http://localhost:3000/markdown)
 
 
-### A Markdown partial
+### Use it in a Markdown partial `_component.html.md`
 
-1. Create a partial app/view/home/`_component.html.md`
+1. Create a `_component.html.md` partial at `app/view/home/_component.html.md`:
 
     ```markdown
         ### This is a component
@@ -57,7 +50,14 @@ And then execute:
         - [This is a link to google] (http://google.com)
     ```
 
-1. Then,  use this partial using `<%= render "component" %>` within any view like index.html.erb
+1. Use this partial using `<%= render "component" %>` within any view like at `home/index.html.erb`
+
+1. Add the following line to `route.rb`: 
+    ```
+       get '/home', to: 'home#index'
+    ```
+1. And finally, visit the Rails view with Markdown partial at [http://localhost:3000/home](http://localhost:3000/home)
+
 
 ### Syntax Highlighting
 
@@ -90,16 +90,17 @@ This will turn all the code block into:
 module MarkdownTemplateHandler
   def self.call(template)
     compiled_source = erb.call(template)
-    "Redcarpet::Markdown.new(Redcarpet::Render::HTML,
-                             no_intra_emphasis: true,
-                             fenced_code_blocks: true,
+    %(Redcarpet::Markdown.new(Redcarpet::Render::HTML,
+                             no_intra_emphasis:            true,
+                             fenced_code_blocks:           true,
                              # I actually like that, so commented it out:
                              # disable_indented_code_blocks: true,
-                             space_after_headers: true,
+                             space_after_headers:          true,
                              prettify:                     true,
                              tables:                       true,
                              with_toc_data:                true,
-                             autolink: true).render(begin;#{compiled_source};end).html_safe"
+                             autolink:                     true
+                             ).render(begin;#{compiled_source};end).html_safe)
   end
 end
 ```
@@ -126,7 +127,19 @@ Special thanks to [these folks](http://stackoverflow.com/questions/4163560/how-c
 
 ## TODO
 
-- [] Tests
-- [] Scaffolders
 - [x] Syntax highlighting 
-- [] Example repo
+- [ ] Tests
+- [ ] Scaffolders
+- [ ] Example repo
+
+
+## Benefits
+
+EMD uses a Rails engine and a simple initializer to initiate a markdown template handler with the help of Redcarpet and syntax highlighting from Coderay.
+
+The motivation is to reuse Markdown file in several of my Rails projects.
+
+- 😊 Reuse Markdown in Rails products
+- 📝 Allow copywriters & marketers to be involved in building your content easily 
+- 📝 Allows you to focus on the content instead of the webpage structure.  
+- 🙌 Supports syntax highlighting via Coderay
