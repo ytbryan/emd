@@ -1,6 +1,6 @@
 # Embedded Markdown [![Gem Version](https://badge.fury.io/rb/emd.svg)](https://badge.fury.io/rb/emd)
 
-Embedded Markdown supports Markdown in Rails views and syntax highlighting at code block. 
+Embedded Markdown supports Markdown in Rails views and syntax highlighting at your Markdown code block.
 
 ## Installation
 
@@ -11,12 +11,12 @@ gem 'coderay' #optional for Syntax Highlighting
 gem 'redcarpet'
 gem 'emd'
 ```
-> emd depends on Redcarpet for Markdown rendering
 
 And then execute:
 
-    $ bundle
-
+```
+bundle
+```
 ## Usage
 
 ### Use it in a Markdown view `markdown.html.md`
@@ -131,6 +131,7 @@ Special thanks to [these folks](http://stackoverflow.com/questions/4163560/how-c
 - [ ] Tests
 - [ ] Scaffolders
 - [ ] Example repo
+- [ ] Add a copy button to the code block
 
 
 ## Benefits
