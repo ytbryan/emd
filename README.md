@@ -144,3 +144,7 @@ The motivation is to reuse Markdown file in several of my Rails projects.
 - 📝 Allow copywriters & marketers to be involved in building your content easily 
 - 📝 Allows you to focus on the content instead of the webpage structure.  
 - 🙌 Supports syntax highlighting via Coderay
+
+
+## Other implementations
+- [Markdown Rails](https://github.com/joliss/markdown-rails)
