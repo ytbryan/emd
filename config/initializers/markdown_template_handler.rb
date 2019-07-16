@@ -1,9 +1,9 @@
 class CodeRayify < Redcarpet::Render::HTML
   def block_code(code, language)
-    if Gem.loaded_specs.has_key?('coderay')
-      CodeRay.scan(code, language).div 
-    else 
+    if !Gem.loaded_specs.has_key?('coderay') ||  language == nil || language == "" 
       %(<pre>#{code}</pre>)
+    else 
+      CodeRay.scan(code, language).div 
     end
   end
 end
