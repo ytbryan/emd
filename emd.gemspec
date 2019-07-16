@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Bryan Lim"]
   spec.email         = ["ytbryan@gmail.com"]
   spec.summary       = %q{Embedded markdown template for Ruby on Rails}
-  spec.description   = %q{mbedded markdown template for Ruby on Rails}
+  spec.description   = %q{Embedded markdown template for Ruby on Rails}
   spec.homepage      = "https://github.com/ytbryan/emd"
   spec.license       = "MIT"
   spec.require_paths = ["lib"]
