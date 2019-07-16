@@ -1,5 +1,5 @@
 module Log
-  MESSAGE = "
+  MESSAGE = %(
 
   ███████╗███╗   ███╗██████╗
   ██╔════╝████╗ ████║██╔══██╗
@@ -9,5 +9,5 @@ module Log
   ╚══════╝╚═╝     ╚═╝╚═════╝
                              
     Send me pull request ->  https://github.com/ytbryan/emd/pulls
-  "
+  )
 end
