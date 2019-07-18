@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.version       = Emd::VERSION
   spec.authors       = ["Bryan Lim"]
   spec.email         = ["ytbryan@gmail.com"]
-  spec.summary       = %q{Embedded markdown template for Ruby on Rails}
+  spec.summary       = %q{Markdown partial and .html.md on Rails View}
   spec.description   = %q{Embedded markdown template for Ruby on Rails}
   spec.homepage      = "https://github.com/ytbryan/emd"
   spec.license       = "MIT"
