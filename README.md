@@ -78,10 +78,21 @@ This will turn all the code block into:
 ```
 
 ```ruby
-    class Something
-    end
-  ```
+class Something
+end
+```
 
+Also, you can enable inline code highlighting by adding `code` style to your `index.css`
+
+```
+code {
+  background-color: rgba(27,31,35,.1);
+  border-radius: 3px;
+  font-size: 85%;
+  margin: 0;
+  padding: .2em .4em;
+}
+```
 ### Control which extensions Redcarpet uses
 
 `emd` assumes some sane redcarpet extension use (see redcarpets options [here](https://github.com/vmg/redcarpet#and-its-like-really-simple-to-use) and [here](https://github.com/vmg/redcarpet#darling-i-packed-you-a-couple-renderers-for-lunch)). If you need to overwrite these in your Rails app, create a file `config/initializers/markdown_template_handler.rb` to overwrite the defaults from [config/initializers/markdown_template_handler.rb](config/initializers/markdown_template_handler.rb) like this:

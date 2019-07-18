@@ -16,7 +16,7 @@ module MarkdownTemplateHandler
   def self.call(template)
     compiled_source = erb.call(template)
     
-    %(Redcarpet::Markdown.new(CodeRayify.new(:filter_html => true, 
+    %(Redcarpet::Markdown.new(CodeRayify.new(:filter_html => false, 
                                             :hard_wrap => true),
                             no_intra_emphasis:            true,
                             fenced_code_blocks:           true,
