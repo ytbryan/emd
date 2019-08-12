@@ -1,3 +1,6 @@
+## 0.4.0
+
+- Enable number lines for code block via `emd.js` and `emd.css`. See instruction https://github.com/ytbryan/emd#enable-number-lines-in-your-markdowns-code-block. 
 
 ## 0.3.2
 
