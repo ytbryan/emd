@@ -98,17 +98,30 @@ code {
 
 To display number lines in your code block, add `emd.js` in `app/assets/javascripts/application.js`
 
-```
+```javascript
 //= require emd
 //= require_tree .
 ```
 
 And add `emd.css` in `app/assets/stylesheets/application.css`
 
-``` 
+```css
 *= require emd
 *= require_self
 ```
+
+### Changing the color of the code block
+
+To change the color of the code block, please use the following css selector: 
+
+```css
+div.code pre {
+  background-color: #fff;
+}
+```
+
+The default color is `#eee`
+
 
 ### Control which extensions Redcarpet uses
 
@@ -156,10 +169,12 @@ Special thanks to [these folks](http://stackoverflow.com/questions/4163560/how-c
 ## TODO
 
 - [x] Syntax highlighting 
+- [x] Number lines in code block
 - [ ] Tests
 - [ ] Scaffolders
 - [ ] Example repo
 - [ ] Add a copy button to the code block
+
 
 
 ## Benefits
