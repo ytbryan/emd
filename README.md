@@ -93,6 +93,36 @@ code {
   padding: .2em .4em;
 }
 ```
+
+### Enable number lines in your markdown's code block
+
+To display number lines in your code block, add `emd.js` in `app/assets/javascripts/application.js`
+
+```javascript
+//= require emd
+//= require_tree .
+```
+
+And add `emd.css` in `app/assets/stylesheets/application.css`
+
+```css
+*= require emd
+*= require_self
+```
+
+### Changing the color of the code block
+
+To change the color of the code block, please use the following css selector: 
+
+```css
+div.code pre {
+  background-color: #fff;
+}
+```
+
+The default color is `#eee`
+
+
 ### Control which extensions Redcarpet uses
 
 `emd` assumes some sane redcarpet extension use (see redcarpets options [here](https://github.com/vmg/redcarpet#and-its-like-really-simple-to-use) and [here](https://github.com/vmg/redcarpet#darling-i-packed-you-a-couple-renderers-for-lunch)). If you need to overwrite these in your Rails app, create a file `config/initializers/markdown_template_handler.rb` to overwrite the defaults from [config/initializers/markdown_template_handler.rb](config/initializers/markdown_template_handler.rb) like this:
@@ -139,10 +169,12 @@ Special thanks to [these folks](http://stackoverflow.com/questions/4163560/how-c
 ## TODO
 
 - [x] Syntax highlighting 
+- [x] Number lines in code block
 - [ ] Tests
 - [ ] Scaffolders
 - [ ] Example repo
 - [ ] Add a copy button to the code block
+
 
 
 ## Benefits
