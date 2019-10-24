@@ -1,3 +1,7 @@
+## 0.5.0
+
+- Fix https://github.com/ytbryan/emd/issues/13 Single arity template handlers are deprecated in Rails 6
+
 ## 0.4.0
 
 - Enable number lines for code block via `emd.js` and `emd.css`. See instruction https://github.com/ytbryan/emd#enable-number-lines-in-your-markdowns-code-block. 
