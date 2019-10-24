@@ -13,8 +13,13 @@ module MarkdownTemplateHandler
     @erb ||= ActionView::Template.registered_template_handler(:erb)
   end
 
-  def self.call(template)
-    compiled_source = erb.call(template)
+  def self.call(template, source = nil)
+
+    compiled_source = if source
+      erb.call(template, source)
+    else
+      erb.call(template)
+    end
     
     %(Redcarpet::Markdown.new(CodeRayify.new(:filter_html => false, 
                                             :hard_wrap => true),
