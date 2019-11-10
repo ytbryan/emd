@@ -1,0 +1,1722 @@
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (1.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (2.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.9ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.3ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+  [1m[35m (0.2ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.9ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (3.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 16:17:24 +0800
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (2.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 17:17:56 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.8ms | Allocations: 306)
+Completed 200 OK in 8ms (Views: 7.1ms | ActiveRecord: 0.0ms | Allocations: 2602)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (2.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.8ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 17:19:35 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.3ms | Allocations: 306)
+Completed 200 OK in 8ms (Views: 6.6ms | ActiveRecord: 0.0ms | Allocations: 2602)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 17:21:03 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.5ms | Allocations: 306)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms | Allocations: 2602)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (2.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 17:23:08 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.8ms | Allocations: 306)
+Completed 200 OK in 10ms (Views: 8.5ms | ActiveRecord: 0.0ms | Allocations: 2602)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emdx" for 127.0.0.1 at 2019-11-07 17:23:22 +0800
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 17:23:43 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.0ms | Allocations: 306)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms | Allocations: 2602)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.2ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 17:28:08 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.6ms | Allocations: 306)
+Completed 200 OK in 10ms (Views: 9.1ms | ActiveRecord: 0.0ms | Allocations: 2602)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (2.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 17:28:18 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.8ms | Allocations: 306)
+Completed 200 OK in 9ms (Views: 7.6ms | ActiveRecord: 0.0ms | Allocations: 2602)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (2.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 17:28:44 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.5ms | Allocations: 306)
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms | Allocations: 2602)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 17:28:44 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 0.0ms | Allocations: 4)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 257)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 17:28:44 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 0.0ms | Allocations: 4)
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 256)
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+Started GET "/assets/emd.css" for 127.0.0.1 at 2019-11-07 17:42:36 +0800
+Started GET "/assets/emd.js" for 127.0.0.1 at 2019-11-07 17:42:36 +0800
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 17:42:36 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.8ms | Allocations: 306)
+Completed 200 OK in 12ms (Views: 10.9ms | ActiveRecord: 0.0ms | Allocations: 2599)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 17:42:36 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 0.1ms | Allocations: 4)
+Completed 200 OK in 2ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 257)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (2.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 17:43:13 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.4ms | Allocations: 306)
+Completed 200 OK in 11ms (Views: 9.9ms | ActiveRecord: 0.0ms | Allocations: 2602)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+Started GET "/assets/emd.css" for 127.0.0.1 at 2019-11-07 17:43:13 +0800
+Started GET "/assets/emd.js" for 127.0.0.1 at 2019-11-07 17:43:13 +0800
+Started GET "/assets/copybutton.js" for 127.0.0.1 at 2019-11-07 17:43:13 +0800
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 17:43:13 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 0.0ms | Allocations: 4)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 257)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.9ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.3ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (2.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------
+EmdHelperTest: test_should_work
+-------------------------------
+  [1m[35m (0.2ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.2ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 17:45:49 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.9ms | Allocations: 304)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms | Allocations: 2352)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+Started GET "/assets/emd.css" for 127.0.0.1 at 2019-11-07 17:45:49 +0800
+Started GET "/assets/emd.js" for 127.0.0.1 at 2019-11-07 17:45:49 +0800
+Started GET "/assets/copybutton.js" for 127.0.0.1 at 2019-11-07 17:45:49 +0800
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 17:45:49 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 0.0ms | Allocations: 4)
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 257)
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+Started GET "/assets/emd.css" for 127.0.0.1 at 2019-11-07 17:46:11 +0800
+Started GET "/assets/emd.js" for 127.0.0.1 at 2019-11-07 17:46:11 +0800
+Started GET "/assets/copybutton.js" for 127.0.0.1 at 2019-11-07 17:46:11 +0800
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 17:46:11 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.3ms | Allocations: 304)
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms | Allocations: 2598)
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 17:46:11 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 0.0ms | Allocations: 4)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 257)
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------
+EmdHelperTest: test_Emd_helper_should_work
+------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 17:46:27 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 0.9ms | Allocations: 304)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 2598)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+Started GET "/assets/emd.css" for 127.0.0.1 at 2019-11-07 17:46:27 +0800
+Started GET "/assets/emd.js" for 127.0.0.1 at 2019-11-07 17:46:27 +0800
+Started GET "/assets/copybutton.js" for 127.0.0.1 at 2019-11-07 17:46:27 +0800
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_helper_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 17:46:27 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 0.0ms | Allocations: 4)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 257)
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------
+EmdHelperTest: test_Emd_helper_should_work
+------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+Started GET "/assets/emd.css" for 127.0.0.1 at 2019-11-07 20:53:12 +0800
+Started GET "/assets/emd.js" for 127.0.0.1 at 2019-11-07 20:53:12 +0800
+Started GET "/assets/copybutton.js" for 127.0.0.1 at 2019-11-07 20:53:12 +0800
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 20:53:12 +0800
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------
+EmdHelperTest: test_Emd_helper_should_work
+------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (2.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+Started GET "/assets/emd.css" for 127.0.0.1 at 2019-11-07 20:54:19 +0800
+Started GET "/assets/emd.js" for 127.0.0.1 at 2019-11-07 20:54:19 +0800
+Started GET "/assets/copybutton.js" for 127.0.0.1 at 2019-11-07 20:54:19 +0800
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 20:54:19 +0800
+  [1m[35m (0.2ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------
+EmdHelperTest: test_Emd_helper_should_work
+------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+Started GET "/assets/emd.css" for 127.0.0.1 at 2019-11-07 20:57:01 +0800
+Started GET "/assets/emd.js" for 127.0.0.1 at 2019-11-07 20:57:01 +0800
+Started GET "/assets/copybutton.js" for 127.0.0.1 at 2019-11-07 20:57:01 +0800
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 20:57:01 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.1ms | Allocations: 304)
+Completed 200 OK in 10ms (Views: 6.8ms | ActiveRecord: 0.0ms | Allocations: 2598)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------
+EmdHelperTest: test_Emd_helper_should_work
+------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (2.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+Started GET "/assets/emd.css" for 127.0.0.1 at 2019-11-07 21:10:59 +0800
+Started GET "/assets/emd.js" for 127.0.0.1 at 2019-11-07 21:10:59 +0800
+Started GET "/assets/copybutton.js" for 127.0.0.1 at 2019-11-07 21:10:59 +0800
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 21:10:59 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.4ms | Allocations: 304)
+Completed 200 OK in 10ms (Views: 8.7ms | ActiveRecord: 0.0ms | Allocations: 2598)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------
+EmdHelperTest: test_Emd_helper_should_work
+------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.4ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (2.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 21:39:12 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.1ms | Allocations: 304)
+Completed 200 OK in 8ms (Views: 7.1ms | ActiveRecord: 0.0ms | Allocations: 2598)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+Started GET "/assets/emd.css" for 127.0.0.1 at 2019-11-07 21:39:12 +0800
+Started GET "/assets/emd.js" for 127.0.0.1 at 2019-11-07 21:39:12 +0800
+Started GET "/assets/copybutton.js" for 127.0.0.1 at 2019-11-07 21:39:12 +0800
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------
+EmdHelperTest: test_Emd_helper_should_work
+------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+EverythingTest: test_test_a_markdown_.html.md
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.3ms)[0m  [1m[36mbegin transaction[0m
+--------------------------------------------
+EverythingTest: test_test_a_markdown_partial
+--------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+Started GET "/assets/emd.css" for 127.0.0.1 at 2019-11-07 21:41:18 +0800
+Started GET "/assets/emd.js" for 127.0.0.1 at 2019-11-07 21:41:18 +0800
+Started GET "/assets/copybutton.js" for 127.0.0.1 at 2019-11-07 21:41:18 +0800
+  [1m[35m (0.3ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 21:41:18 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 3.5ms | Allocations: 304)
+Completed 200 OK in 14ms (Views: 11.4ms | ActiveRecord: 0.0ms | Allocations: 2598)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------
+EmdHelperTest: test_Emd_helper_should_work
+------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+Started GET "/assets/emd.css" for 127.0.0.1 at 2019-11-07 21:44:59 +0800
+Started GET "/assets/emd.js" for 127.0.0.1 at 2019-11-07 21:44:59 +0800
+Started GET "/assets/copybutton.js" for 127.0.0.1 at 2019-11-07 21:44:59 +0800
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 21:44:59 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.2ms | Allocations: 304)
+Completed 200 OK in 8ms (Views: 6.9ms | ActiveRecord: 0.0ms | Allocations: 2598)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------
+EmdHelperTest: test_Emd_helper_should_work
+------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------
+EmdHelperTest: test_Emd_helper_should_work
+------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+Started GET "/assets/emd.css" for 127.0.0.1 at 2019-11-07 21:58:05 +0800
+Started GET "/assets/emd.js" for 127.0.0.1 at 2019-11-07 21:58:05 +0800
+Started GET "/assets/copybutton.js" for 127.0.0.1 at 2019-11-07 21:58:05 +0800
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 21:58:05 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.0ms | Allocations: 304)
+Completed 200 OK in 6ms (Views: 5.1ms | ActiveRecord: 0.0ms | Allocations: 2352)
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------
+EmdHelperTest: test_Emd_helper_should_work
+------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+Started GET "/assets/emd.css" for 127.0.0.1 at 2019-11-07 21:58:17 +0800
+Started GET "/assets/emd.js" for 127.0.0.1 at 2019-11-07 21:58:17 +0800
+Started GET "/assets/copybutton.js" for 127.0.0.1 at 2019-11-07 21:58:17 +0800
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 21:58:17 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.4ms | Allocations: 304)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms | Allocations: 2352)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 21:58:41 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.3ms | Allocations: 304)
+Completed 200 OK in 8ms (Views: 6.7ms | ActiveRecord: 0.0ms | Allocations: 2600)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------
+EmdHelperTest: test_Emd_helper_should_work
+------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.2ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+Started GET "/somethingblahbvlah" for 127.0.0.1 at 2019-11-07 21:58:52 +0800
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 21:58:52 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.0ms | Allocations: 304)
+Completed 200 OK in 7ms (Views: 6.1ms | ActiveRecord: 0.0ms | Allocations: 2598)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------
+EmdHelperTest: test_Emd_helper_should_work
+------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------
+EmdHelperTest: test_Emd_helper_should_work
+------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 21:59:13 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.5ms | Allocations: 304)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 2354)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+Started GET "/assets/emd.css" for 127.0.0.1 at 2019-11-07 21:59:13 +0800
+Started GET "/assets/emd.js" for 127.0.0.1 at 2019-11-07 21:59:13 +0800
+Started GET "/assets/copybutton.js" for 127.0.0.1 at 2019-11-07 21:59:13 +0800
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+Started GET "/assets/emd.css" for 127.0.0.1 at 2019-11-07 22:59:18 +0800
+Started GET "/assets/emd.js" for 127.0.0.1 at 2019-11-07 22:59:18 +0800
+Started GET "/assets/copybutton.js" for 127.0.0.1 at 2019-11-07 22:59:18 +0800
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 22:59:18 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 2.0ms | Allocations: 304)
+Completed 200 OK in 9ms (Views: 7.4ms | ActiveRecord: 0.0ms | Allocations: 2598)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------
+InitializerTest: test_Test_.html.md
+-----------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------
+InitializerTest: test_Test_markdown_partial
+-------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------
+EmdHelperTest: test_Emd_helper_should_work
+------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (2.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------
+InitializerTest: test_Test_Redcarpet
+------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------
+InitializerTest: test_Test_.html.md
+-----------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------
+InitializerTest: test_Test_markdown_partial
+-------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+Started GET "/assets/emd.css" for 127.0.0.1 at 2019-11-07 23:02:49 +0800
+Started GET "/assets/emd.js" for 127.0.0.1 at 2019-11-07 23:02:49 +0800
+Started GET "/assets/copybutton.js" for 127.0.0.1 at 2019-11-07 23:02:49 +0800
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-07 23:02:49 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.5ms | Allocations: 304)
+Completed 200 OK in 10ms (Views: 8.8ms | ActiveRecord: 0.0ms | Allocations: 2598)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------
+EmdHelperTest: test_Emd_helper_should_work
+------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-08 08:37:00 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 3.5ms | Allocations: 304)
+Completed 200 OK in 15ms (Views: 13.7ms | ActiveRecord: 0.0ms | Allocations: 2600)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+Started GET "/assets/emd.css" for 127.0.0.1 at 2019-11-08 08:37:00 +0800
+Started GET "/assets/emd.js" for 127.0.0.1 at 2019-11-08 08:37:00 +0800
+Started GET "/assets/copybutton.js" for 127.0.0.1 at 2019-11-08 08:37:00 +0800
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------
+InitializerTest: test_Test_markdown_partial
+-------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------
+InitializerTest: test_Test_.html.md
+-----------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------
+InitializerTest: test_Test_Redcarpet
+------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------
+EmdHelperTest: test_Emd_helper_should_work
+------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------
+InitializerTest: test_Test_.html.md
+-----------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------
+InitializerTest: test_Test_markdown_partial
+-------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------
+InitializerTest: test_Test_Redcarpet
+------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.3ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+Started GET "/assets/emd.css" for 127.0.0.1 at 2019-11-08 08:41:31 +0800
+Started GET "/assets/emd.js" for 127.0.0.1 at 2019-11-08 08:41:31 +0800
+Started GET "/assets/copybutton.js" for 127.0.0.1 at 2019-11-08 08:41:31 +0800
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-08 08:41:31 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.0ms | Allocations: 304)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms | Allocations: 2598)
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------
+EmdHelperTest: test_Emd_helper_should_work
+------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+Started GET "/assets/emd.css" for 127.0.0.1 at 2019-11-08 08:43:43 +0800
+Started GET "/assets/emd.js" for 127.0.0.1 at 2019-11-08 08:43:44 +0800
+Started GET "/assets/copybutton.js" for 127.0.0.1 at 2019-11-08 08:43:44 +0800
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-08 08:43:44 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.2ms | Allocations: 304)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms | Allocations: 2598)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------
+EmdHelperTest: test_Emd_helper_should_work
+------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------
+InitializerTest: test_Test_.html.md
+-----------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------
+InitializerTest: test_Test_Redcarpet
+------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------
+InitializerTest: test_Test_markdown_partial
+-------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------
+EmdHelperTest: test_Emd_helper_should_work
+------------------------------------------
+  [1m[35m (1.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------
+InitializerTest: test_Test_Redcarpet
+------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------
+InitializerTest: test_Test_markdown_partial
+-------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------
+InitializerTest: test_Test_.html.md
+-----------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+Started GET "/assets/emd.css" for 127.0.0.1 at 2019-11-08 08:43:51 +0800
+Started GET "/assets/emd.js" for 127.0.0.1 at 2019-11-08 08:43:51 +0800
+Started GET "/assets/copybutton.js" for 127.0.0.1 at 2019-11-08 08:43:52 +0800
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-08 08:43:52 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.1ms | Allocations: 304)
+Completed 200 OK in 10ms (Views: 8.7ms | ActiveRecord: 0.0ms | Allocations: 2352)
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-08 08:44:12 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.3ms | Allocations: 304)
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.0ms | Allocations: 2600)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+Started GET "/assets/emd.css" for 127.0.0.1 at 2019-11-08 08:44:12 +0800
+Started GET "/assets/emd.js" for 127.0.0.1 at 2019-11-08 08:44:12 +0800
+Started GET "/assets/copybutton.js" for 127.0.0.1 at 2019-11-08 08:44:12 +0800
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------
+EmdHelperTest: test_Emd_helper_should_work
+------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------
+InitializerTest: test_Test_.html.md
+-----------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------
+InitializerTest: test_Test_Redcarpet
+------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------
+InitializerTest: test_Test_markdown_partial
+-------------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------------
+MarkdownGeneratorTest: test_generate_markdown
+---------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------------
+InitializerTest: test_Test_markdown_partial
+-------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------
+InitializerTest: test_Test_.html.md
+-----------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------
+InitializerTest: test_Test_Redcarpet
+------------------------------------
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+------------------------------------------
+EmdHelperTest: test_Emd_helper_should_work
+------------------------------------------
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+----------------------------------------
+EngineTest: test_Test_assets_are_present
+----------------------------------------
+Started GET "/assets/emd.css" for 127.0.0.1 at 2019-11-08 08:45:09 +0800
+Started GET "/assets/emd.js" for 127.0.0.1 at 2019-11-08 08:45:09 +0800
+Started GET "/assets/copybutton.js" for 127.0.0.1 at 2019-11-08 08:45:10 +0800
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+EngineTest: test_Test_engine_is_working
+---------------------------------------
+Started GET "/emd" for 127.0.0.1 at 2019-11-08 08:45:10 +0800
+Processing by EmdController#index as HTML
+  Rendering /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb
+  Rendered /Users/ytbryan/Desktop/emd/app/views/emd/index.html.erb (Duration: 1.1ms | Allocations: 304)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 2352)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
