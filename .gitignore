@@ -8,3 +8,6 @@
 /spec/reports/
 /tmp/
 /*.gem
+/test/dummy/log/
+/test/dummy/tmp/
+
