@@ -1,4 +1,4 @@
-# Embedded Markdown [![Gem Version](https://badge.fury.io/rb/emd.svg)](https://badge.fury.io/rb/emd)
+# Embedded Markdown [![Gem Version](https://badge.fury.io/rb/emd.svg)](https://badge.fury.io/rb/emd) [![Build Status](https://travis-ci.org/ytbryan/emd.svg?branch=test)](https://travis-ci.org/ytbryan/emd)
 
 Embedded Markdown supports Markdown in Rails views and syntax highlighting at your Markdown code block.
 
