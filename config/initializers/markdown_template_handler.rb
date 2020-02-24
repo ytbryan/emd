@@ -3,8 +3,8 @@ module MarkdownTemplateHandler
     @erb ||= ActionView::Template.registered_template_handler(:erb)
   end
 
-  def self.call(template)
-    compiled_source = erb.call(template)
+  def self.call(template, source)
+    compiled_source = erb.call(template, source)
     "Redcarpet::Markdown.new(Redcarpet::Render::HTML,
                              no_intra_emphasis: true,
                              fenced_code_blocks: true,
