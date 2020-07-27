@@ -16,8 +16,10 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
   spec.post_install_message = Log::MESSAGE
   spec.files         = Dir["{app,config,lib}/**/*", "LICENSE.txt", "README.md"]
-  # spec.add_runtime_dependency 'redcarpet', "3.4.0"
-  spec.add_development_dependency "bundler", "~> 2.1.2"
-  spec.add_development_dependency "rake", "~> 10.0"
+
+  spec.add_development_dependency "rails"
+  spec.add_development_dependency "rspec", "~> 3.9.0"
+  spec.add_development_dependency "bundler", "~> 2.1.4"
+  spec.add_development_dependency "rake", "~> 13.0.1"
   spec.add_development_dependency 'coderay', "1.1.2"
 end

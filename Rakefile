@@ -1,14 +1,14 @@
-require 'rake/testtask' # required for Rake::TestTask
+require 'bundler/gem_tasks'
+require 'rspec/core/rake_task'
 
-desc 'Run the test suites'
-Rake::TestTask.new do |t|
-  files = ARGV[1..-1]
-  files = "test/**/*_test.rb" if !files || files.length == 0 # run every _test.rb inside test directory
-  t.libs << "test"
-  t.libs << "lib/**/*"
-  t.test_files = FileList[files]
-  t.verbose = true
-  t.warning = false
+RSpec::Core::RakeTask.new('spec')
+
+# If you want to make this the default task
+task :default => :spec
+
+desc "Run IRB console with app environment"
+task :console do
+  puts "Loading development console..."
+  system("irb -r ./lib/bible_gateway.rb")
 end
 
-task default: :test
