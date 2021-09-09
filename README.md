@@ -23,18 +23,18 @@ bundle
 
 1. Create a `markdown.html.md` view at `app/view/home/markdown.html.md` and add the following Markdown code:
 
-    ```markdown
-        ## This is a sample Markdown code
-        - [google](http://google.com)
-        - [emd](https://github.com/ytbryan/emd/)
-    ```
+```markdown
+## This is a sample Markdown code
+- [google](http://google.com)
+- [emd](https://github.com/ytbryan/emd/)
+```
 
 1. Generate a home controller using the following command `rails generate controller home`
 
 1. Add the following line to `route.rb`: 
-    ```
-       get '/markdown', to: 'home#markdown'
-    ```
+```
+get '/markdown', to: 'home#markdown'
+```
 1. And finally, visit the Markdown view at [http://localhost:3000/markdown](http://localhost:3000/markdown)
 
 
@@ -42,20 +42,20 @@ bundle
 
 1. Create a `_component.html.md` partial at `app/view/home/_component.html.md`:
 
-    ```markdown
-        ### This is a component
+```markdown
+### This is a component
 
-        - This is item 1
-        - This is iiem 2
-        - [This is a link to google] (http://google.com)
-    ```
+- This is item 1
+- This is iiem 2
+- [This is a link to google] (http://google.com)
+```
 
 1. Use this partial using `<%= render "component" %>` within any view like at `home/index.html.erb`
 
 1. Add the following line to `route.rb`: 
-    ```
-       get '/home', to: 'home#index'
-    ```
+```
+get '/home', to: 'home#index'
+```
 1. And finally, visit the Rails view with Markdown partial at [http://localhost:3000/home](http://localhost:3000/home)
 
 
@@ -72,8 +72,8 @@ This will turn all the code block into:
 
 ```ruby
     ```ruby
-       class Something
-       end
+        class Something
+        end
     ```
 ```
 
