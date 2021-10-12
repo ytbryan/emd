@@ -105,8 +105,10 @@ GEM
     nio4r (2.5.8)
     nokogiri (1.12.4-x86_64-darwin)
       racc (~> 1.4)
+    nokogiri (1.12.4-x86_64-linux)
+      racc (~> 1.4)
     public_suffix (4.0.6)
-    puma (5.4.0)
+    puma (5.5.1)
       nio4r (~> 2.0)
     racc (1.5.2)
     rack (2.2.3)
@@ -202,6 +204,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-19
+  x86_64-linux
 
 DEPENDENCIES
   bootsnap (>= 1.4.4)
@@ -211,7 +214,7 @@ DEPENDENCIES
   emd
   jbuilder (~> 2.7)
   listen (~> 3.3)
-  puma (~> 5.0)
+  puma (~> 5.5)
   rack-mini-profiler (~> 2.0)
   rails (~> 6.1.4, >= 6.1.4.1)
   redcarpet
